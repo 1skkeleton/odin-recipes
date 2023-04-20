@@ -1,0 +1,18 @@
+* {
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+body{
+    text-align: center;
+}
+
+img{
+    height: 200px;
+    width: 400px;
+
+    border-left: 1.5px #333 solid;
+    border-right: 1.5px #333 solid;
+
+}
